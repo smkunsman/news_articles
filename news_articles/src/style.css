@@ -59,6 +59,7 @@ nav{
     justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
+
 }
 
 .block-card{
@@ -91,6 +92,7 @@ nav{
 .block-card p{
     font-size: 1.2rem;
     padding-top: 0.7rem;
+    height: 170px
 }
 
 .button-container{
